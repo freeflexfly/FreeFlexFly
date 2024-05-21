@@ -13,6 +13,6 @@
 <p><a>Deploy ML/DL Streamlit Application on Heroku</a> - A step-by-step guide to deploy a Machine Learning or Deep Learning application using Streamlit on Heroku.</p>
 <p>Build a Stunning Github Profile for Machine Learning & Data Engineering - A guide to building a professional Github profile for Machine Learning and Data Engineering.
 <h2>Contact</h2>
-<p>Please feel free to reach out to me if you have any questions , suggestions, or collaboration opportunities. You can contact me through <a href="mailto::freeflexfly@gmail.com">email</a> or <a href="https://www.linkedin.com/in/robert-lee-b51220280/">LinkedIn</a>. Links can be found in my Github profile.</p>
+<p>Please feel free to reach out to me if you have any questions , suggestions, or collaboration opportunities. You can contact me through <a href="mailto::freeflexfly@gmail.com">email</a> or <a href="https://www.linkedin.com/in/maksym-mykhailiuk">LinkedIn</a>. Links can be found in my Github profile.</p>
 
 <p>Thank you for visiting my Github profile!</p>
